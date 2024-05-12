@@ -22,15 +22,11 @@ We welcome contributions from everyone who wants to celebrate Mother's Day with 
 
 - **Add Photos:** Share photos of your mother or moments spent together.
 
-Feel free to fork this repository, make your contributions, and submit a pull request. Don't forget to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Code of Conduct
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to ensure a positive and inclusive environment for all contributors.
 
-## Contributors
-
-- Add your name here when you contribute!
 
 ## License
 
