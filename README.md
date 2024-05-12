@@ -34,4 +34,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Happy Mother's Day to all the incredible mothers out there! 🌸💖
+Happy Mother's Day 🙏🏻 to all the incredible mothers out there! 🌸💖
